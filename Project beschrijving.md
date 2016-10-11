@@ -8,4 +8,8 @@ Voor dit project ga ik een website ontwikkelen die ik later voor mezelf zou kunn
 [ ]Apache <br>
 
 ##4/10/2016
-Aanmaken markdown file. Opstellen apache server
+Aanmaken markdown file. Opstellen apache server aan de hand van deze website
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+
+##11/10/2016
+instaleren Ubuntu server en instaleren apache
