@@ -1,7 +1,7 @@
 #Project Webapplications
 
 ##Configuren en Instaleren Webserver
-Instalatie aan de hand van deze tutorials [Raspberry PI](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md) [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
+Instalatie aan de hand van deze tutorials [Raspberry PI](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md) & [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
 
 ###Instaleren van openssh
 Om dat de virtuele machine gebruikt maakt van een querty toetsenbord is het aangenamer om te wereken via putty. zo kunnen we ook commando's plakken.
